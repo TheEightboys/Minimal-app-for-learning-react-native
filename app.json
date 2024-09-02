@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0c3a9400-d5b6-4c82-8bea-8eda15905255"
+      }
+    },
+    "android": {
+      "package": "com.theboysofficial.thegraffity"
+    },
+    "plugins": [
+      "expo-video"
+    ]
+  }
+}
